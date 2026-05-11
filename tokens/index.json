@@ -1,27 +1,27 @@
 [
   {
-    "name": "Arctic Node",
-    "symbol": "ARNO13",
+    "name": "Ghost Nexus",
+    "symbol": "GHNE80",
     "metadata_url": "https://raw.githubusercontent.com/oraunu/token_man/master/tokens/token_01/metadata.json"
   },
   {
-    "name": "Jupiter Byte",
-    "symbol": "JUBY18",
+    "name": "Ghost Pulse",
+    "symbol": "GHPU43",
     "metadata_url": "https://raw.githubusercontent.com/oraunu/token_man/master/tokens/token_02/metadata.json"
   },
   {
-    "name": "Neon Surge",
-    "symbol": "NESU93",
+    "name": "Plasma Nexus",
+    "symbol": "PLNE39",
     "metadata_url": "https://raw.githubusercontent.com/oraunu/token_man/master/tokens/token_03/metadata.json"
   },
   {
-    "name": "Quantum Surge",
-    "symbol": "QUSU15",
+    "name": "Halo Nexus",
+    "symbol": "HANE81",
     "metadata_url": "https://raw.githubusercontent.com/oraunu/token_man/master/tokens/token_04/metadata.json"
   },
   {
-    "name": "Viral Flux",
-    "symbol": "VIFL93",
+    "name": "Blazing Token",
+    "symbol": "BLTO74",
     "metadata_url": "https://raw.githubusercontent.com/oraunu/token_man/master/tokens/token_05/metadata.json"
   }
 ]
