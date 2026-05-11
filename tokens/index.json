@@ -1,102 +1,102 @@
 [
   {
-    "name": "Lunar Vault",
-    "symbol": "LUVA62",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_01/metadata.json"
+    "name": "Iron Bolt",
+    "symbol": "IRBO88",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_01/metadata.json"
   },
   {
-    "name": "Hyper Flare",
-    "symbol": "HYFL9",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_02/metadata.json"
+    "name": "Arctic Link",
+    "symbol": "ARLI16",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_02/metadata.json"
   },
   {
-    "name": "Delta Core",
-    "symbol": "DECO55",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_03/metadata.json"
+    "name": "Viral Flare",
+    "symbol": "VIFL86",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_03/metadata.json"
   },
   {
-    "name": "Hyper Wave",
-    "symbol": "HYWA28",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_04/metadata.json"
+    "name": "Electric Bolt",
+    "symbol": "ELBO8",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_04/metadata.json"
   },
   {
-    "name": "Cyber Core",
-    "symbol": "CYCO11",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_05/metadata.json"
+    "name": "Iron Peak",
+    "symbol": "IRPE2",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_05/metadata.json"
   },
   {
-    "name": "Solar Gate",
-    "symbol": "SOGA43",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_06/metadata.json"
+    "name": "Blazing Peak",
+    "symbol": "BLPE51",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_06/metadata.json"
   },
   {
-    "name": "Halo Link",
-    "symbol": "HALI84",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_07/metadata.json"
+    "name": "Jade Apex",
+    "symbol": "JAAP28",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_07/metadata.json"
   },
   {
-    "name": "Kinetic Chain",
-    "symbol": "KICH22",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_08/metadata.json"
+    "name": "Hyper Link",
+    "symbol": "HYLI16",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_08/metadata.json"
   },
   {
-    "name": "Lunar Node",
-    "symbol": "LUNO12",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_09/metadata.json"
+    "name": "Frozen Link",
+    "symbol": "FRLI29",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_09/metadata.json"
   },
   {
-    "name": "Electric Nexus",
-    "symbol": "ELNE16",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_10/metadata.json"
+    "name": "Golden Apex",
+    "symbol": "GOAP53",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_10/metadata.json"
   },
   {
-    "name": "Jupiter Wave",
-    "symbol": "JUWA98",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_11/metadata.json"
+    "name": "Xenon Wave",
+    "symbol": "XEWA27",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_11/metadata.json"
   },
   {
-    "name": "Lunar Nexus",
-    "symbol": "LUNE92",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_12/metadata.json"
+    "name": "Iron Forge",
+    "symbol": "IRFO18",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_12/metadata.json"
   },
   {
-    "name": "Rapid Edge",
-    "symbol": "RAED56",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_13/metadata.json"
+    "name": "Titan Bolt",
+    "symbol": "TIBO14",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_13/metadata.json"
   },
   {
-    "name": "Blazing Node",
-    "symbol": "BLNO33",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_14/metadata.json"
+    "name": "Titan Nexus",
+    "symbol": "TINE46",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_14/metadata.json"
   },
   {
-    "name": "Atomic Wave",
-    "symbol": "ATWA36",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_15/metadata.json"
+    "name": "Hyper Peak",
+    "symbol": "HYPE23",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_15/metadata.json"
   },
   {
-    "name": "Echo Gate",
-    "symbol": "ECGA68",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_16/metadata.json"
+    "name": "Wild Chip",
+    "symbol": "WICH77",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_16/metadata.json"
   },
   {
-    "name": "Kinetic Byte",
-    "symbol": "KIBY93",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_17/metadata.json"
+    "name": "Plasma Bolt",
+    "symbol": "PLBO57",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_17/metadata.json"
   },
   {
-    "name": "Jade Spark",
-    "symbol": "JASP13",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_18/metadata.json"
+    "name": "Arctic Forge",
+    "symbol": "ARFO71",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_18/metadata.json"
   },
   {
-    "name": "Jade Surge",
-    "symbol": "JASU94",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_19/metadata.json"
+    "name": "Frozen Token",
+    "symbol": "FRTO50",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_19/metadata.json"
   },
   {
-    "name": "Quantum Tide",
-    "symbol": "QUTI20",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/main/tokens/token_20/metadata.json"
+    "name": "Delta Forge",
+    "symbol": "DEFO97",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_20/metadata.json"
   }
 ]
