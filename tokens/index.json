@@ -1,27 +1,27 @@
 [
   {
-    "name": "Cosmic Vault",
-    "symbol": "COVA13",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_01/metadata.json"
+    "name": "Arctic Node",
+    "symbol": "ARNO13",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_man/master/tokens/token_01/metadata.json"
   },
   {
-    "name": "Halo Edge",
-    "symbol": "HAED21",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_02/metadata.json"
+    "name": "Jupiter Byte",
+    "symbol": "JUBY18",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_man/master/tokens/token_02/metadata.json"
   },
   {
-    "name": "Iron Core",
-    "symbol": "IRCO24",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_03/metadata.json"
+    "name": "Neon Surge",
+    "symbol": "NESU93",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_man/master/tokens/token_03/metadata.json"
   },
   {
-    "name": "Jupiter Wave",
-    "symbol": "JUWA68",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_04/metadata.json"
+    "name": "Quantum Surge",
+    "symbol": "QUSU15",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_man/master/tokens/token_04/metadata.json"
   },
   {
-    "name": "Cyber Surge",
-    "symbol": "CYSU73",
-    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_data/master/tokens/token_05/metadata.json"
+    "name": "Viral Flux",
+    "symbol": "VIFL93",
+    "metadata_url": "https://raw.githubusercontent.com/oraunu/token_man/master/tokens/token_05/metadata.json"
   }
 ]
